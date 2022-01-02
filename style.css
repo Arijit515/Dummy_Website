@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&family=Poppins:wght@300&display=swap');
 
-/* Base Styles */
-
 * {
   box-sizing: border-box;
   padding: 0;
@@ -311,7 +309,7 @@ footer a:hover {
 }
 
 /* Mobile devices */
-@media(max-width: 540px) {
+@media(max-width: 600px) {
   .navbar {
     height: 100px;
   }
